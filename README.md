@@ -2,7 +2,7 @@
 - 👀 I’m interested in FiveM Development
 - 🌱 I’m currently learning more languages day by day
 - 💞️ I’m looking to collaborate on individual projects/scripts and possibly even work on servers for hire
-- 📫 How to reach me ...
+- 📫 Reach me on
 discord: ItsEnzo#0999
 
 
