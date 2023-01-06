@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyodevelopment&label=Profile%20views&color=0e75b6&style=flat" alt="sanyodevelopment" /> </p>
 
-- 🔭 I’m currently working on [Novel City](discord.gg/novelcity)
+- 🔭 I’m currently working on [Amethyst Roleplay](discord.gg/amethystroleplay)
 
 - 📫 How to reach me **Discord: Sanyo#0001**
 
