@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanyo</h1>
 <h3 align="center">A passionate developer from Florida</h3>
 
-<p align="left"> <img src="https://cdn.discordapp.com/attachments/1020557019482177680/1037956948101976134/background.jpg" alt="sanyodevelopment" /> </p>
+<p align="left"> <img src="https://cdn.discordapp.com/attachments/1020557019482177680/1076999972102352947/adidas-november-black-friday-2021-banner.webp" alt="sanyodevelopment" /> </p>
 
 - 🔭 I’m currently working on [Amethyst Roleplay](discord.gg/amethystroleplay)
 
